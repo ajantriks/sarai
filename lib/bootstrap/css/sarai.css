@@ -6,9 +6,16 @@
   Customised for Sarai-CSDS
 */
 
+/* Navigation Bar Font Size and Dropdown Alignment
+-------------------------------------------------- */
+
 .nav
 .navbar li, li a {
   font-size: 14px;
+}
+
+.dropdown {
+  margin-left: 41px;
 }
 
 /* h4
